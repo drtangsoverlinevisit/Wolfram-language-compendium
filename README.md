@@ -1,1 +1,1 @@
-# Wolfram-language-compendium
+# Wolfram语言纲要
